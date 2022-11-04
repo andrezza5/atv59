@@ -1,0 +1,6 @@
+Métodos para melhoramento de senhas
+
+1 - Optar por caracteres especiais, números e letras maiúsculas e minúsculas.
+2 - Evitar o uso de datas comemorativas e nomes de familiares.
+3 - Evitar sequências numéricas.
+4 - Não compartilhar sua senha com estranhos.
